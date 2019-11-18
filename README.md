@@ -10,7 +10,7 @@ my-blogs 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.lovelinux.top/hello-solo)
+* [世界，你好！](https://www.lovelinux.top/hello-solo)
 
 
 
