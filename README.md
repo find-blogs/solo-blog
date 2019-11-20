@@ -10,8 +10,25 @@ my-blogs 的个人博客
 
 ### 最新
 
-* [test](https://www.lovelinux.top/articles/2019/11/18/1574086960461.html)
-* [世界，你好！](https://www.lovelinux.top/hello-solo)
+* [RabbitMQ](https://www.lovelinux.top/articles/2019/11/19/1574175697175.html)
+* [Ubuntu ](https://www.lovelinux.top/articles/2019/11/19/1574174911825.html)
+* [在线工具](https://www.lovelinux.top/articles/2019/11/19/1574171438695.html)
+* [运维大佬](https://www.lovelinux.top/articles/2019/11/19/1574166999566.html)
+* [ELK安装](https://www.lovelinux.top/articles/2019/11/19/1574166694037.html)
+* [Ansible](https://www.lovelinux.top/articles/2019/11/19/1574166560845.html)
+* [Awk](https://www.lovelinux.top/articles/2019/11/19/1574166445964.html)
+* [Jenkins](https://www.lovelinux.top/articles/2019/11/19/1574166257445.html)
+* [Sell](https://www.lovelinux.top/articles/2019/11/19/1574166148784.html)
+* [随笔test](https://www.lovelinux.top/articles/2019/11/19/1574158188420.html)
+* [国内镜像源](https://www.lovelinux.top/articles/2019/11/19/1574156636063.html)
+* [Mysql](https://www.lovelinux.top/articles/2019/11/19/1574155293272.html)
+* [JumpServer 安装](https://www.lovelinux.top/articles/2019/11/19/1574155062144.html)
+* [Zabbix](https://www.lovelinux.top/articles/2019/11/19/1574154784948.html)
+* [关于我](https://www.lovelinux.top/articles/2019/11/19/1574154404914.html)
+* [Git](https://www.lovelinux.top/articles/2019/11/19/1574153785272.html)
+* [Nginx](https://www.lovelinux.top/articles/2019/11/19/1574153423582.html)
+* [Docker 安装](https://www.lovelinux.top/articles/2019/11/19/1574153014498.html)
+* [Linux 常用命令-ls](https://www.lovelinux.top/articles/2019/11/19/1574152049490.html)
 
 
 
