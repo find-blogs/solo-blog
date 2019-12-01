@@ -1,4 +1,4 @@
-<p align="center"><img alt="My-Blogs 的个人博客" src="https://avatars2.githubusercontent.com/u/57827220?v=4"></p><h2 align="center">
+<p align="center"><img alt="My-Blogs 的个人博客" src="https://img.hacpai.com/avatar/1573996925265?1573996931846"></p><h2 align="center">
 My-Blogs 的个人博客
 </h2>
 
@@ -12,7 +12,6 @@ My-Blogs 的个人博客
 
 * [我在 GitHub 上的开源项目](https://www.lovelinux.top/my-github-repos)
 * [随笔](https://www.lovelinux.top/articles/2019/11/21/1574347392087.html)
-* [Solo](https://www.lovelinux.top/articles/2019/11/21/1574346730517.html)
 * [Kubernetes 安装](https://www.lovelinux.top/articles/2019/11/21/1574334914092.html)
 * [RabbitMQ](https://www.lovelinux.top/articles/2019/11/19/1574175697175.html)
 * [Ubuntu ](https://www.lovelinux.top/articles/2019/11/19/1574174911825.html)
@@ -30,11 +29,11 @@ My-Blogs 的个人博客
 * [Zabbix](https://www.lovelinux.top/articles/2019/11/19/1574154784948.html)
 * [关于我](https://www.lovelinux.top/articles/2019/11/19/1574154404914.html)
 * [Git](https://www.lovelinux.top/articles/2019/11/19/1574153785272.html)
+* [YUM 安装 Nginx](https://www.lovelinux.top/articles/2019/11/19/1574153423582.html)
 
 ### 热门
 
 * [Docker 安装](https://www.lovelinux.top/articles/2019/11/19/1574153014498.html)
-* [YUM 安装 Nginx](https://www.lovelinux.top/articles/2019/11/19/1574153423582.html)
 * [Linux 常用命令-ls](https://www.lovelinux.top/articles/2019/11/19/1574152049490.html)
 
 
